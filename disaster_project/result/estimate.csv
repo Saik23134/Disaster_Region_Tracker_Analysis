@@ -1,0 +1,40 @@
+,id,Classification_Key,Disaster_Subgroup,Disaster_Type,Disaster_Subtype,Location,Origin,Total_Deaths,No_Injured,No_Affected,No_Homeless,Total_Affected,Total_Damage,Total_Damage_Adjusted,Start_Date,Duration_days
+0,6,nat-met-sto-lig,Meteorological,Storm,Lightning/Thunderstorms,Odisha,,12.0,14.0,1060,,1074,,,2023-02-09,120
+1,8,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Tamil Nadu,,20.0,,4390000,,4390000,,,2023-05-12,31
+2,11,nat-met-sto-sev,Meteorological,Storm,Severe weather,Himachal Pradesh,,4.0,7.0,22810,115.0,22932,,,2024-03-27,1
+3,14,nat-met-sto-sto,Meteorological,Storm,Storm (General),Andhra Pradesh,,33.0,,11000,50000.0,61000,,,2005-09-20,1
+4,16,nat-met-sto-hai,Meteorological,Storm,Hail,Manipur,,1.0,,77000,,77000,,,2024-05-05,1
+5,17,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Assam,,51.0,500.0,2109143,,2109643,,,2024-05-26,4
+6,23,nat-met-sto-lig,Meteorological,Storm,Lightning/Thunderstorms,Andhra Pradesh,,7.0,58.0,1870,,1928,,,2014-06-03,30
+7,25,nat-met-sto-lig,Meteorological,Storm,Lightning/Thunderstorms,Tripura,,1.0,,10000,,10000,,,2015-04-04,30
+8,36,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Odisha,,9.0,12.0,3810000,,3810012,,,2024-10-24,1
+9,41,nat-met-sto-sev,Meteorological,Storm,Severe weather,Odisha,,2.0,67.0,3000,,3067,,,2025-03-22,4
+10,43,nat-met-sto-sev,Meteorological,Storm,Severe weather,Tripura,,2.0,2.0,2500,,2502,,,2025-04-18,6
+11,44,nat-met-sto-sev,Meteorological,Storm,Severe weather,Gujarat,,14.0,16.0,35,,51,,,2025-04-05,91
+12,47,nat-met-sto-sev,Meteorological,Storm,Severe weather,Gujarat,,27.0,1.0,33583,,33584,,,2025-06-20,6
+13,50,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,,,30000,,30000,,,2000-11-29,1
+14,52,nat-met-sto-sev,Meteorological,Storm,Severe weather,Bihar,,100.0,100.0,125000,,125100,,,2015-04-21,1
+15,113,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Gujarat,,5.0,,140,,140,,,2003-02-18,1
+16,115,nat-met-sto-hai,Meteorological,Storm,Hail,West Bengal,,30.0,500.0,294765,190645.0,485910,,,2003-12-03,1
+17,150,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Manipur,,,,1970,,1970,,,2017-05-30,1
+18,180,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,884.0,,60000,,60000,,,2017-02-12,1
+19,184,nat-met-sto-lig,Meteorological,Storm,Lightning/Thunderstorms,Bihar,,29.0,,1250,,1250,,,2017-05-28,1
+20,189,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,West Bengal,,96.0,,5100000,,5100000,,,2009-05-25,1
+21,205,nat-met-sto-lig,Meteorological,Storm,Lightning/Thunderstorms,Tripura,,32.0,,21000,,21000,,,2018-06-05,92
+22,224,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,85.0,200.0,300000,,300200,,,2018-11-10,30
+23,225,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Tamil Nadu,,45.0,,500000,,500000,,,2018-11-16,1
+24,226,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,8.0,,10000,,10000,,,2018-12-17,2
+25,233,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Odisha,,50.0,,20000000,,20000000,,,2019-03-05,1
+26,240,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Assam,,12.0,,130000,,130000,,,2019-09-11,30
+27,244,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Odisha,,90.0,,18000000,,18000000,,,2020-05-20,1
+28,245,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Maharashtra,,6.0,,7500,,7500,,,2020-03-06,1
+29,262,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Goa,,198.0,153.0,700000,,700153,,,2021-05-14,5
+30,264,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Odisha,,19.0,,1625000,,1625000,,,2021-05-25,4
+31,280,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,7.0,,179000,,179000,,,2021-03-10,1
+32,285,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,40.0,,70000,,70000,,,2012-04-11,122
+33,296,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,47.0,,13230000,,13230000,,,2013-12-10,57
+34,302,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,5.0,400.0,1650,,2050,,,2021-04-12,61
+35,304,nat-met-sto-sev,Meteorological,Storm,Severe weather,Assam,,20.0,,95000,,95000,,,2022-01-04,105
+36,310,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Manipur,,,,1000,,1000,,,2023-05-14,1
+37,312,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Gujarat,,7.0,,10000,,10000,,,2023-06-19,2
+38,321,nat-met-sto-tro,Meteorological,Storm,Tropical cyclone,Andhra Pradesh,,53.0,,920000,,920000,,,2014-12-10,1
